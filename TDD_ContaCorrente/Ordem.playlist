@@ -1,0 +1,5 @@
+<Playlist Version="1.0">
+  <Add Test="TDD_ContaCorrente.TDDContaCorrente.LançamentoDeCredito" />
+  <Add Test="TDD_ContaCorrente.TDDContaCorrente.LancarDebito1" />
+  <Add Test="TDD_ContaCorrente.TDDContaCorrente.LancarCredito" />
+</Playlist>
